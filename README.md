@@ -72,16 +72,27 @@ MSX2
 ## ■ 頒布先
 ### 家電のKENちゃん
 MSX Simple 4 Slot Expander【完成品】  
+https://www.kadenken.com/view/item/000000001635  
 
 ●オプション  
 加工済シェルケース(RGR製)  
 クリアブラック　 :  https://www.kadenken.com/view/item/000000001318  
-クリア　　　　 : https://www.kadenken.com/view/item/000000001317
+クリア　　　　 : https://www.kadenken.com/view/item/000000001317  
 
-MSX Slot 延長ケーブル 
+MSX Slot 延長ケーブル : https://www.kadenken.com/view/item/000000001636  
+
 
 ### BEEP
 MSX Simple 4 Slot Expander【完成品】  
+https://www.beep-shop.com/ec/products/detail/38517  
+
+●オプション  
+加工済シェルケース(RGR製)  
+ブラック　　　 :  https://www.beep-shop.com/ec/products/detail/38515  
+クリアブラック　 : https://www.beep-shop.com/ec/products/detail/38514  
+
+MSX Slot 延長ケーブル : https://www.beep-shop.com/ec/products/detail/38516  
+
 
 ## ■ 付属品
 本体には下記が付属しています。  
@@ -192,12 +203,12 @@ MSXのスロットを延長するケーブルです。(ケーブル長20cm)
 
 なお本製品で使用しているカードエッジコネクタは大手メーカ製が廃盤になってしまっており、   
 中国製のものを使用しています。そのため金メッキ品ですが長期信頼性は不明です。  
-カードリッジシェルは本製品と同じものが使用できます。
+カートリッジシェルは本製品と同じものが使用できます。
 
 使用時はコネクタに張ってある、シール側がカセット正面になるようにセットしてください。
 ![EXTCABLE](./img/Image17.jpg "EXTCABLE2")  
 
-## ■ (オプション) カードリッジシェル について
+## ■ (オプション)カートリッジシェル について
 シェルケースは
 RGRさんのTransparent Cartridge Shell for MSX Konami-styleを切削加工したものを使用しています。  
 <https://retrogamerestore.com/store/msx_cart_shell/>  
